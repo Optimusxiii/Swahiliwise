@@ -1,3 +1,2 @@
 # Swahiliwise
-Interactive Comprehensive Swahili Grammar
-Developing Swahili language learning resources.
+Interactive Comprehensive Swahili Grammar. We are developing Swahili language learning resources.
